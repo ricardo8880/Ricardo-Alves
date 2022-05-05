@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: #1f2631;
+}
+
+.box-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 56px;
+    line-height: 56px;
+}
+
+.box-menu p {
+    width: 50%;
+}
+
+.icone-menu {
+    display: none;
+    color: white;
+    cursor: pointer;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.box-menu a {
+    color: white;
+    text-decoration: none;
+}
+
+@media(max-width:820px) {
+    .menu ul {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 56px;
+        display: none;
+    }
+    .icone-menu {
+        display: block;
+    }
+}
+
+header {
+    background-image: linear-gradient(to bottom right, #00004a, #004fb2);
+    min-height: 600px;
+    position: relative;
+}
+
+.tecnologias {
+    color: #ff84ff;
+    text-shadow: 1px 1px 3px;
+}
+
+.descricao {
+    color: #89ffb4;
+    text-shadow: 1px 1px 3px #89ffb4;
+    line-height: 35px;
+}
+
+a[href="https://www.linkedin.com/in/ricardo-alves-455471234/"] {
+    font-size: 40px;
+    color: white;
+}
+
+.img-icone {
+    box-shadow: 1px 10px 4px rgba(255, 255, 255, 0), 1px 1px 10px rgba(255, 255, 255, 0.11), 1px 30px 20px rgba(255, 255, 255, 0.205), 1px 40px 30px rgba(255, 255, 255, 0.123);
+    border-radius: 8px;
+}
+
+section {
+    background-color: #1f2631;
+}
+
+.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box-card {
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.perfil {
+    border: solid 2px yellow;
+    border-radius: 50%;
+    box-shadow: 1px 1px 5px black;
+}
+
+.boxcard2 .perfil {
+    border: solid 2px #a3fdaa;
+}
+
+.boxcard2 .display-flex p {
+    border: solid thin #a3fdaa;
+    color: #a3fdaa;
+}
+
+.boxcard3 .perfil {
+    border: solid 2px #00ffef;
+}
+
+.boxcard3 .display-flex p {
+    border: solid thin #00ffef;
+    color: #00ffef;
+}
+
+.display-flex p {
+    width: 120px;
+    border: solid thin yellow;
+    color: yellow;
+    text-shadow: 1px 1px 5px;
+    padding: 5px;
+    box-shadow: inset black;
+}
+
+.display-flex p:hover {
+    transition: .4s;
+    box-shadow: inset 110px 0 0 0 black;
+    transform: rotate(270deg);
+}
+
+.projetos-sites img {
+    width: 300px;
+    height: 300px;
+}
