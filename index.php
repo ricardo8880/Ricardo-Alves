@@ -111,14 +111,14 @@
       <div class="projetos-sites container">
       <div class="row m-0"> 
         <div class="m-auto shadow text-center pt-3">
-            <p class="text-light">http://www.amrservicosgerais.com.br/></p>  
+            <p class="text-light">http://www.amrservicosgerais.com.br/</p>  
             <a class="image-link" href="./img/amr.png"><img src="./img/amr.png" alt="amr"></a>
           </div>
 
           <div id="projetos"></div>
 
           <div class="m-auto shadow text-center pt-3">
-            <p class="text-light">http://www.amrservicosgerais.com.br/></p>  
+            <p class="text-light">http://www.amrservicosgerais.com.br/</p>  
             <a class="image-link" href="./img/continvest.png"><img src="./img/continvest.png" alt="continvest"></a>
           </div>
 
