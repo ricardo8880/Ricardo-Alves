@@ -46,14 +46,15 @@
         </div>
          
     <div class="col-sm-3 m-auto">
-          <p>  <a href="http://wa.me/5511933743236"><img class="img-icone" src="./img/icone-whats.png" alt=""></a></p>
-          <p><a href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
+          <p><a target="_blank" href="http://wa.me/5511933743236"><img class="img-icone" src="./img/icone-whats.png" alt=""></a></p>
+          <p><a target="_blank" href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
         </div>    
     </div>
     
     </header>
+  
     <div id="habilidades"></div>
-    
+  
     <section class="my-4">
     
         <div class="row m-0 container m-auto">
@@ -68,8 +69,8 @@
               <p>JQUERY</p>
             </div>
             <div class="row m-0">
-                <p class="col-6">  <a href="http://wa.me/5511933743236"><img class="img-icone mt-3" src="./img/icone-whats.png" alt=""></a></p>
-                <p class="col-6"><a href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
+                <p class="col-6">  <a target="_blank" href="http://wa.me/5511933743236"><img class="img-icone mt-3" src="./img/icone-whats.png" alt=""></a></p>
+                <p class="col-6"><a target="_blank" href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
             </div>
           </div>
           
@@ -83,8 +84,8 @@
               <p>AJAX</p>
             </div>
             <div class="row m-0">
-                <p class="col-6">  <a href="http://wa.me/5511933743236"><img class="img-icone mt-3" src="./img/icone-whats.png" alt=""></a></p>
-                <p class="col-6"><a href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
+                <p class="col-6">  <a target="_blank" href="http://wa.me/5511933743236"><img class="img-icone mt-3" src="./img/icone-whats.png" alt=""></a></p>
+                <p class="col-6"><a target="_blank" href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
             </div>
           </div>
 
@@ -100,8 +101,8 @@
               
             </div>
             <div class="row m-0">
-                <p class="col-6">  <a href="http://wa.me/5511933743236"><img class="img-icone mt-3" src="./img/icone-whats.png" alt=""></a></p>
-                <p class="col-6"><a href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
+                <p class="col-6">  <a target="_blank" href="http://wa.me/5511933743236"><img class="img-icone mt-3" src="./img/icone-whats.png" alt=""></a></p>
+                <p class="col-6"><a target="_blank" href="https://www.linkedin.com/in/ricardo-alves-455471234/"><img class="img-icone" src="./img/icone-linke.png" alt=""></a></p>
             </div>
           </div>
         </div>
@@ -146,7 +147,7 @@
     
    <footer>
      <div class="text-center bg-dark p-5 text-light shadow mt-5">
-        <P class="m-0">PROGRAMADOR</P>
+        <P class="m-0">DESENVOLVEDOR <span style="text-shadow: 1px 1px 4px #00ffef;">Full-Stack</span></P>
         <p>RICARDO ALVES</p>
      </div>
    </footer>   
